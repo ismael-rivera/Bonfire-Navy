@@ -1,0 +1,67 @@
+/* .bg01 {
+    background-repeat: no-repeat;
+    background: #efe7da;
+}
+
+.bg02 {
+    overflow: visible;
+}
+
+ul.bottom-menu li,
+ul.top-menu li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+ul.top-menu li a {
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    border-width: 1px;
+}
+
+.intro-text {
+    font-family: Myriad Pro;
+    font-size: 16pt;
+}
+
+
+
+.webdev-portfolio div.row img {
+    background-color: #fff;
+    margin: 15px;
+}
+
+.porfolio_img {
+    border: 1px solid #000;
+} */
+.bg01 {
+    background: linear-gradient(to right, rgb(253, 134, 92) 8.70588%, rgb(202, 73, 71) 100%);
+    background-repeat: no-repeat;
+}
+
+.bg02 {
+}
+
+.bg03 {
+    background: linear-gradient(0deg, rgba(2, 128, 144, 1) 1.76%, rgba(0, 153, 153, 1) 43.47%, rgba(0, 204, 153, 1) 97.24%);
+    background-repeat: no-repeat;
+}
+
+.bg04 {
+    background: #333333;
+    background: rgba(51, 51, 51, 1);
+}
+
+.icon-xs {
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.goto-xs {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
